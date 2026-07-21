@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-_Last updated: July 20, 2026_
+_Last updated: July 21, 2026_
 
 ## Overview
 
@@ -27,8 +27,22 @@ your profile). Reviews you mark private are not shown to others.
 review. Granting camera or photo-library access is only used to let you capture or select these
 photos; we do not access your library otherwise.
 
+**Skin and hair traits.** You can optionally choose traits that describe your skin and hair — for
+example skin type, scalp type, hair texture, and concerns such as sensitivity, acne-proneness,
+dandruff, or eczema. Some of these describe health conditions, so we treat them carefully: you
+choose whether to add any at all, you can change or remove them at any time, and we never include
+which traits you selected in our analytics. **Traits you add are shown publicly on your profile**
+and are used to let people filter reviews to reviewers with similar skin or hair. If you would
+rather not share them, leave them blank — the rest of the app works normally without them.
+
 **Device & technical data.** If you enable notifications, we store a push notification token for your
 device so we can deliver alerts. We also process basic technical data needed to operate the service.
+
+**Analytics & diagnostics.** We record how the app is used — for example that a review was submitted
+or a collection created — along with automatic crash and error reports when something goes wrong.
+These records are linked to your account so we can understand real usage and fix problems. We do
+**not** collect your location for analytics, and we do not record the content of your reviews,
+notes, or messages in them.
 
 ## How We Use Information
 
@@ -39,9 +53,14 @@ respond to support and safety reports.
 ## How Information Is Stored and Shared
 
 Loom's backend is hosted on **Supabase**, our cloud infrastructure provider, which stores and
-processes your data on our behalf as a sub-processor. We do **not** sell your personal information,
-and we do **not** use third-party advertising or cross-app tracking. Public content you post is
-visible to other Loom users and may be seen by anyone using the app.
+processes your data on our behalf as a sub-processor. We use **PostHog** as a second
+sub-processor, for the product analytics and crash reporting described above; we have disabled its
+IP-based location lookup, so it does not derive your location from your connection.
+
+We do **not** sell your personal information, and we do **not** use third-party advertising or
+cross-app tracking — Loom contains no advertising or attribution SDKs, and nothing we collect is
+shared with data brokers or used to target you across other apps and websites. Public content you
+post is visible to other Loom users and may be seen by anyone using the app.
 
 ## Data Retention and Account Deletion
 
