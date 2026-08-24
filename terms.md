@@ -4,7 +4,7 @@ title: Terms of Service
 permalink: /terms
 ---
 
-_Last updated: July 20, 2026_
+_Last updated: August 24, 2026_
 
 ## 1. Acceptance
 
@@ -39,8 +39,13 @@ We aim to act on reports of objectionable content within 24 hours.
 
 ## 6. Intellectual Property
 
-Loom and its content (excluding user content) are owned by Loom and protected by applicable laws. You
-may not copy, modify, or reverse engineer the app except as permitted by law.
+The Loom app — including its software, design, and original content, but excluding user content —
+is owned by its operator and protected by applicable intellectual property laws. You may not copy,
+modify, or reverse engineer the app except as permitted by law.
+
+"Loom" is a common word used by other businesses in other fields. The Loom name and logo are used
+here to identify this beauty app and its services; we make no claim to the word "Loom" outside that
+use.
 
 ## 7. Disclaimers and Limitation of Liability
 
