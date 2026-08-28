@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-_Last updated: July 21, 2026_
+_Last updated: August 28, 2026_
 
 ## Overview
 
@@ -23,6 +23,10 @@ we receive the relayed address only.
 or visible to other users** by design (for example, your ratings and reviews appear in feeds and on
 your profile). Reviews you mark private are not shown to others.
 
+**Reports you send us.** When you report a rating, review, comment, or profile, we store the report
+along with any note you write in it, so we can review the case and act on it. Reports are visible to
+us, not to the person you reported.
+
 **Photos.** Photos you add to a review are uploaded to our cloud storage and shown alongside that
 review. Granting camera or photo-library access is only used to let you capture or select these
 photos; we do not access your library otherwise.
@@ -38,11 +42,19 @@ rather not share them, leave them blank — the rest of the app works normally w
 **Device & technical data.** If you enable notifications, we store a push notification token for your
 device so we can deliver alerts. We also process basic technical data needed to operate the service.
 
+**Approximate location.** Our analytics provider works out a rough location from the internet
+connection your device uses (its IP address). That gives a city, region, and country, plus
+coordinates accurate only to within kilometers. We look at it in aggregate, to understand where Loom
+is being used and where to focus our effort. This is not precise location: Loom never asks for
+location permission, never reads your device's GPS or location services, and cannot see where you
+are beyond what your connection suggests.
+
 **Analytics & diagnostics.** We record how the app is used — for example that a review was submitted
 or a collection created — along with automatic crash and error reports when something goes wrong.
-These records are linked to your account so we can understand real usage and fix problems. We do
-**not** collect your location for analytics, and we do not record the content of your reviews,
-notes, or messages in them.
+These records are linked to your account so we can understand real usage and fix problems, and they
+carry basic device context such as your device model, operating system version, and app version. We
+do not record the content of your reviews, notes, or messages in them, and we never include which
+skin or hair traits you selected.
 
 ## How We Use Information
 
@@ -53,9 +65,12 @@ respond to support and safety reports.
 ## How Information Is Stored and Shared
 
 Loom's backend is hosted on **Supabase**, our cloud infrastructure provider, which stores and
-processes your data on our behalf as a sub-processor. We use **PostHog** as a second
-sub-processor, for the product analytics and crash reporting described above; we have disabled its
-IP-based location lookup, so it does not derive your location from your connection.
+processes your data on our behalf as a sub-processor. We use **PostHog** as a second sub-processor,
+for the product analytics, crash reporting, and approximate location described above.
+
+Signing in is handled by **Apple** and **Google**. When you choose one of them, they confirm your
+identity to us and pass along your name and email address as described above. Their own privacy
+policies cover what they do with the sign-in on their side.
 
 We do **not** sell your personal information, and we do **not** use third-party advertising or
 cross-app tracking — Loom contains no advertising or attribution SDKs, and nothing we collect is
