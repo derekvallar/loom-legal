@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-_Last updated: August 28, 2026_
+_Last updated: September 6, 2026_
 
 ## Overview
 
@@ -79,6 +79,9 @@ post is visible to other Loom users and may be seen by anyone using the app.
 
 ## Data Retention and Account Deletion
 
+We keep your account information and content for as long as your account is active, and delete it
+when you delete your account.
+
 You can permanently delete your account at any time from **Settings → Delete Account**. Deleting your
 account removes your profile and the content associated with it from our systems, including your
 uploaded photos. Some content you contributed to shared catalog data may be retained in anonymized
@@ -88,7 +91,10 @@ reasons.
 ## Children's Privacy
 
 Loom is not directed to children under 13 (or the minimum age required in your region), and we do not
-knowingly collect their information.
+knowingly collect their information. You confirm you meet this minimum when you create an account.
+If we learn that we have collected information from a child under 13, we will delete that account and
+its associated data promptly. If you are a parent or guardian and believe your child has created an
+account, contact us at **loomcurationapp@gmail.com** and we will remove it.
 
 ## Your Choices
 
