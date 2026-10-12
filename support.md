@@ -6,6 +6,8 @@ permalink: /support
 
 Need help with Loom? Email **loomcurationapp@gmail.com** and we'll get back to you.
 
+Don't have the app yet? [Get Loom: Skincare Keepsakes on the App Store](https://apps.apple.com/us/app/loom-skincare-keepsakes/id6760890900).
+
 ## Common questions
 
 **How do I report content or someone's behavior?**
